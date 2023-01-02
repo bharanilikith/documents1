@@ -1,0 +1,114 @@
+Chapter-1
+Introduction to Fireflink wrt Manual Testacases 
+
+Pre-requiste
+1.Manual testing Complete
+2.FireLawn Application Training
+
+1.Manual TestCase
+2. Fireflink
+3.Signup
+4.Creating the manual testcases template
+5.Customizing the manual testcase
+6.Defect Tracking
+7.Test dev
+   1.Creating module
+   2.Creating Manual testcase
+   3.Adding Manual testcases
+8.Execution
+  1.Suite Execution
+  2.Updateing the status
+
+Chapter-2
+Introduction to Automation
+1.What is Automation
+2.Why Automation
+3.When to Start Automation
+5.Automation Tools
+6. Test Automation Framework 
+7.Driffernce Between Selenium and Fireflink
+
+Pre-requiste
+1.HTML
+2.Locators
+3.Types of Locators
+
+Chapter-3
+Introduction to FireFlink wrt Automation
+
+1.Creating Pages Tree Structure in Excel
+2.Repo Creation
+  1.Adding Pages
+3.Web Element Locator Plugin
+  1.Recording Elements from UI
+  2.Selecting the pages
+  3.Moveing the elements
+  4.Recorded Elements
+
+Chapter-4
+Introduction to NLP
+
+1.Waiting statements(Synchronization)
+2.Handling Webelemnts
+  Textbox
+  Buttons
+  Links
+  Dropdown
+   1.Single Select
+   2.Multi Select
+  Mouse Hover
+  Right click
+  Double Click
+  Drag and drop
+  Scroll Bar 
+  Frames
+  Popups 
+   1.Alert Popup
+   2.Hidden Division
+   3.FileUpload
+   4.FileDownload
+   5.Child Browser
+   6.Notification 
+3.Program Elements(Custom NLP)
+
+4.Parameterization
+  Script with hardcoded value 
+  With Varabiles
+  Test data File
+  1.Why DDT
+  2.What is DDT
+  3.Advantages of DDT
+  4.Creating Excel and adding to project
+  5.DataProvider
+
+
+Chapter-5 
+Execution of Testcases
+1.Step group
+2.Shared elemnts
+2.Downloading client 
+3.Creating Automation Test scripts
+4.Cascading
+   1.Pre post conditions
+   2.Deponds On
+5.System configuration
+6.Suite Execution
+  1.Levles of executions
+     1.Sequential 
+     2.Parallel execution
+  2.Debugging
+  3.Tagging
+7.Analytics
+8.Dashboard
+9.Inteagrating with 3rd party 
+  1.Github
+  2.Jenkins
+    1.Levels of Executions
+ 
+  
+  
+   
+ 
+
+
+

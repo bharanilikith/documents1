@@ -1,0 +1,35 @@
+Training Content for UK
+
+Web
+1.Introduction to FireFlink Platform
+2.Creating Repo Tree Structure in Excel
+3.Creating Repo Structure in Fireflink
+4.Capturing the Elements using Plugins
+5.Createing 5 TestScripts using Test Development and script executions
+6.Suite Execution
+7.StepGroup
+8.TestData
+9.Pre-post Conditions
+10.Depends On
+11.Shared Elements
+12.Debugging
+13.Tagging
+14.Analytics and Dashboard
+
+Mobile
+1.Introduction to Mobile Automation and installtation process
+2.Locators of Mobile
+3.Creating Repo Tree Structure in Excel
+4.Creating Repo Structure in Fireflink
+5.Capturing the Elements using Mobile Plugins
+6.Createing 5 TestScripts using Test Development and script executions
+7.Suite Execution
+
+WebServices
+1.Introduction to WebServices and JSON
+2.CURD Operation
+3.Assertions
+4.Capture data 
+5.Save as Step
+
+

@@ -1,0 +1,12 @@
+1.Textbox
+2.Text area field
+3.Button
+4.Link
+5.Dropdown
+6.Calender
+7.Image
+8.frame
+9.radio button
+10.checkbox
+
+

@@ -1,0 +1,31 @@
+1.Dropdown
+2.Mouse hover
+3.Right Click
+4.Double click
+5.Drag and drop
+6.Scroll Bar
+7.Alert
+8.Hidden division
+9.File Upload
+10.File download---->
+11.Child browsers
+12.Notifications
+13.Frames
+14.Keyboard actions
+15.Implicilty wait
+16.Explicilty wait
+17.@DataProvider
+18.Lengthy text
+19.Broken Image
+20.Broken Link
+21.Lengthy links
+22.Switching tabs
+23.WebTables
+24.Dynamic Webelements
+25.Tool tip
+26.Cookies
+27.toast Message
+28.Multi Select dropdown
+29.Enabled
+30.Multiple frames
+
